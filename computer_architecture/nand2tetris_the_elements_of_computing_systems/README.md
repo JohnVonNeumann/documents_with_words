@@ -33,4 +33,4 @@ API design and docume
 #### Boolean Expressions and Notation
 xy    = and
 x + y = o
-hat x = not
+\bar{x} = not
