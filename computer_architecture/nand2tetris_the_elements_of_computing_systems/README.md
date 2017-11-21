@@ -31,6 +31,11 @@ API design and docume
 * The lowest level of abstraction inside a computer, are elementary logic gates, which can be physically represented as transistors. Transistors simply being True False boolean triggers, who can have 2 states, 0 and 1. When you hear people talking about Moores Law, this is the number of transistors that can be fit into a CPU, an effective doubling of compute power every 18 months. 
 
 #### Boolean Expressions and Notation
+
+##### Adding more mathematic equations/symbols
+> http://www.codecogs.com/latex/eqneditor.php
+> Select url-encoding from the list.
+
 * ![equation](http://latex.codecogs.com/gif.latex?xy%20%3D%20and)
 * ![equation](http://latex.codecogs.com/gif.latex?x%20&plus;%20y%20%3D%20or)
 * ![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D%20%3D%20not)
