@@ -33,4 +33,4 @@ API design and docume
 #### Boolean Expressions and Notation
 * ![equation](http://latex.codecogs.com/gif.latex?xy%20%3D%20and)
 * ![equation](http://latex.codecogs.com/gif.latex?x%20&plus;%20y%20%3D%20or)
-* ![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Ba%7D)
+* ![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D%20%3D%20not)
