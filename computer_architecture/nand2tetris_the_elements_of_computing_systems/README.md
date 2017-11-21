@@ -34,3 +34,4 @@ API design and docume
 xy    = and
 x + y = o
 $ \bar{x} = not $
+![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Ba%7D)
